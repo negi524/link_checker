@@ -14,3 +14,5 @@ python_version = "3.8"
 
 [scripts]
 dev = "python main.py"
+simple = "python crawl_with_requests.py"
+full = "python crawl_with_selemium.py"
